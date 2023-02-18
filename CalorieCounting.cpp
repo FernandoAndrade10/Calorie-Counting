@@ -1,6 +1,7 @@
-//Fernando Andrade
-//Advant of Code 2021
-//Day 1: Calorie Counting
+//Fernando Israel Andrade
+//Visual Studio 2019
+//Advant of code Day 3
+//https://adventofcode.com/2022/day/3
 
 #include <iostream>
 #include <fstream>
