@@ -1,6 +1,6 @@
 # Calorie Counting
 
-Simple overview of use/purpose.
+Find the total sum of calories of each elf.
 
 ## Description
 
